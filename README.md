@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-- 📫 How to reach me: [Twitter](https://twitter.com/devc101),[Twitter](https://facebook.com/devc100)
+- 📫 How to reach me: [Twitter](https://twitter.com/devc101),[Facebook](https://facebook.com/devc100)
 - 🔭 I’m currently working on [Payroll](https://github.com/frontlook-admin/payroll)
 
 [![](https://github-readme-stats.vercel.app/api?username=frontlook-admin&show_icons=true&theme=dark)](https://github.com/frontlook-admin)
