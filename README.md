@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🔭 I’m currently working on [NETworkManager](https://github.com/BornToBeRoot/NETworkManager)
+- 📫 How to reach me: [Twitter](https://twitter.com/_BornToBeRoot)
 -->
+### Hi there 👋
+
+- 🔭 I’m currently working on [NETworkManager](https://github.com/frontlook-admin/payroll)
+
+[![](https://github-readme-stats.vercel.app/api?username=frontlook-admin&show_icons=true&theme=dark)](https://github.com/frontlook-admin)
