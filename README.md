@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
 - 📫 How to reach me: [Twitter](https://twitter.com/devc101),[Facebook](https://facebook.com/devc100)
 - 🔭 I’m currently working on [Payroll](https://github.com/frontlook-admin/payroll)
 
