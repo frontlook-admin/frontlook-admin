@@ -1,3 +1,8 @@
+- 📫 How to reach me: [Twitter](https://twitter.com/devc101),[Facebook](https://facebook.com/devc100)
+- 🔭 I’m currently working on [Payroll](https://github.com/frontlook-admin/payroll)
+
+[![](https://github-readme-stats.vercel.app/api?username=frontlook-admin&show_icons=true&theme=dark)](https://github.com/frontlook-admin)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/frontlook-admin/frontlook-admin/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
