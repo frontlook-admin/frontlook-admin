@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Payroll](https://github.com/frontlook-admin/payroll)
 
 [![](https://github-readme-stats.vercel.app/api?username=frontlook-admin&show_icons=true&theme=dark)](https://github.com/frontlook-admin)
+
+[![](https://github-readme-stats.vercel.app/api?username=emeraldsoff&show_icons=true&theme=dark)](https://github.com/emeraldsoff)
