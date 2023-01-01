@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 [![](https://github-readme-stats.vercel.app/api?username=emeraldsoff&show_icons=true&theme=dark)](https://github.com/emeraldsoff)
 -->
-- 📫 How to reach me: [Twitter](https://twitter.com/devc101),[Facebook](https://facebook.com/devc100)
-- 🔭 I’m currently working on [Payroll](https://github.com/frontlook-admin/payrollDPS)
+- 📫 How to reach me: <!--[Twitter](https://twitter.com/devc101),-->[Facebook](https://facebook.com/devc100)
+- 🔭 I’m currently working on [Payroll](https://github.com/frontlook-admin/payrollDPS), [Accounting Software](https://github.com/frontlook-admin/AccLead)
 - 🏟 [Skyline'22](https://skyline.github.com/frontlook-admin/2022)
 - 🏟 [Skyline'21](https://skyline.github.com/frontlook-admin/2021)
 - 🏟 [Skyline'20](https://skyline.github.com/frontlook-admin/2020)
