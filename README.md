@@ -29,7 +29,7 @@ Stats
 
 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?frontlook-admin&layout=compact)](https://github.com/frontlook-admin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frontlook-admin&count_private=true&layout=compact)](https://github.com/frontlook-admin)
 
 Weekly Streak
 
