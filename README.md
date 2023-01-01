@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 - 🏟 [Skyline'20](https://skyline.github.com/frontlook-admin/2020)
 
 [![](https://github-readme-stats.vercel.app/api?username=frontlook-admin&show_icons=true&theme=dark)](https://github.com/frontlook-admin)
+[![GitHub Streak](https://streak-stats.demolab.com?user=frontlook-admin&theme=dark&fire=DD2727&sideNums=1982DD&currStreakNum=FF1854&sideLabels=01C658&dates=8EB0DD&currStreakLabel=07C3DD)](https://git.io/streak-stats)
