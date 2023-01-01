@@ -1,44 +1,40 @@
-## Welcome to GitHub Pages
+### Hi there 👋
 
+<!--
+**frontlook-admin/frontlook-admin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+[![](https://github-readme-stats.vercel.app/api?username=emeraldsoff&show_icons=true&theme=dark)](https://github.com/emeraldsoff)
+-->
 - 📫 How to reach me: [Twitter](https://twitter.com/devc101),[Facebook](https://facebook.com/devc100)
-- 🔭 I’m currently working on [Payroll](https://github.com/frontlook-admin/payroll)
+- 🔭 I’m currently working on [Payroll](https://github.com/frontlook-admin/payrollDPS)
+- 🏟 [Skyline'22](https://skyline.github.com/frontlook-admin/2022)
+- 🏟 [Skyline'21](https://skyline.github.com/frontlook-admin/2021)
+- 🏟 [Skyline'20](https://skyline.github.com/frontlook-admin/2020)
 
-[![](https://github-readme-stats.vercel.app/api?username=frontlook-admin&show_icons=true&theme=dark)](https://github.com/frontlook-admin)
+Stats
 
+[![](https://github-readme-stats.vercel.app/api?username=frontlook-admin&count_private=true&show_icons=true&theme=dark)](https://github.com/frontlook-admin)
 
+Most Used Languages
 
-You can use the [editor on GitHub](https://github.com/frontlook-admin/frontlook-admin/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frontlook-admin&count_private=true&layout=compact&theme=dark)](https://github.com/frontlook-admin)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Weekly Streak
 
-### Markdown
+[![GitHub Streak](https://streak-stats.demolab.com?user=frontlook-admin&theme=dark&mode=weekly&fire=DD2727&sideNums=1982DD&currStreakNum=FF1854&sideLabels=01C658&dates=8EB0DD&currStreakLabel=07C3DD)](https://github.com/frontlook-admin)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Daily Streak
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/frontlook-admin/frontlook-admin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[![GitHub Streak](https://streak-stats.demolab.com?user=frontlook-admin&theme=dark&fire=DD2727&sideNums=1982DD&currStreakNum=FF1854&sideLabels=01C658&dates=8EB0DD&currStreakLabel=07C3DD)](https://github.com/frontlook-admin)
