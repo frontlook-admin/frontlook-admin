@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 [![](https://github-readme-stats.vercel.app/api?username=emeraldsoff&show_icons=true&theme=dark)](https://github.com/emeraldsoff)
 -->
-### Hello, everyone. I am [Debanjan Chakraborty](https://facebook.com/devc100). I am a full stack developer and Proprietor of Incredible Informatics.
-- We are located at Room No:
-# 4A, 4th Floor, Todi Mansion
-# Opposite BSNL Head Office, near Poddar Court
-# 1, Lu Shun Sarani, Teriti Bazar
-# Kolkata - 700073
-# West Bengal, India
+# Hello, everyone. I am [Debanjan Chakraborty](https://facebook.com/devc100). I am a full stack developer and Proprietor of Incredible Informatics.
+## We are located at Room No:
+### 4A, 4th Floor, Todi Mansion
+### Opposite BSNL Head Office, near Poddar Court
+### 1, Lu Shun Sarani, Teriti Bazar
+### Kolkata - 700073
+### West Bengal, India
   
 ## We mainly work on DotNet WebApps and Desktop softwares. 
 ## We also develop Android apps.
