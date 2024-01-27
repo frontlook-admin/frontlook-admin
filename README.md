@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 
 [![](https://github-readme-stats.vercel.app/api?username=emeraldsoff&show_icons=true&theme=dark)](https://github.com/emeraldsoff)
 -->
-- Hello, everyone. I am [Debanjan Chakraborty](https://facebook.com/devc100). I am a full stack developer and Proprietor of Incredible Informatics.
+### Hello, everyone. I am [Debanjan Chakraborty](https://facebook.com/devc100). I am a full stack developer and Proprietor of Incredible Informatics.
 - We are located at Room No:
-- 4A, 4th Floor, Todi Mansion
-- Opposite BSNL Head Office, near Poddar Court
-- 1, Lu Shun Sarani, Teriti Bazar
-- Kolkata - 700073
-- West Bengal, India
+# 4A, 4th Floor, Todi Mansion
+# Opposite BSNL Head Office, near Poddar Court
+# 1, Lu Shun Sarani, Teriti Bazar
+# Kolkata - 700073
+# West Bengal, India
   
-- We mainly work on DotNet WebApps and Desktop softwares. 
-- We also develop Android apps.
+## We mainly work on DotNet WebApps and Desktop softwares. 
+## We also develop Android apps.
 
 - 📫 How to reach me: <!--[Twitter](https://twitter.com/devc101),-->[Facebook](https://facebook.com/devc100), [Email](incredibleinformatics@gmail.com)
 - 🔭 I’m currently working on [Payroll](https://github.com/frontlook-admin/payrollDPS), [Accounting Software](https://github.com/frontlook-admin/AccLead),
