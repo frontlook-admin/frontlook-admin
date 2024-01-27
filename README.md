@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## We mainly work on DotNet WebApps and Desktop softwares. 
 ## We also develop Android apps.
 
-- 📫 How to reach me: <!--[Twitter](https://twitter.com/devc101),-->[Facebook](https://facebook.com/devc100), [Email](incredibleinformatics@gmail.com)
+- 📫 How to reach me: <!--[Twitter](https://twitter.com/devc101),-->[Facebook](https://facebook.com/devc100)
 - 🔭 I’m currently working on [Payroll](https://github.com/frontlook-admin/payrollDPS), [Accounting Software](https://github.com/frontlook-admin/AccLead),
 
 Stats
