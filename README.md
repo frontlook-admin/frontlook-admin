@@ -52,3 +52,25 @@ I'm a full stack developer and Proprietor of Incredible Informatics. I specializ
 
 ## 🔥 Daily Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=frontlook-admin&theme=dark&fire=DD2727&sideNums=1982DD&currStreakNum=FF1854&sideLabels=01C658&dates=8EB0DD&currStreakLabel=07C3DD)](https://github.com/frontlook-admin)
+
+## 💻 Skills :
+
+<table>  
+  <tr>  
+  <td align="center" width="96">  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="50" height="50" /><br> C# </td> 
+  <td align="center" width="96">  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySql" width="50" height="50" /><br> MySql </td> 
+  <td align="center" width="96">  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" /><br> GitHub </td>  
+</tr>   
+  <td align="center" width="96">  <img src="https://skillicons.dev/icons?i=nestjs" alt="Bootstrap" width="50" height="50" /><br> Bootstrap </td> 
+  <td align="center" width="96">  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" /><br> HTML </td>  
+  <td align="center" width="96">  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" /><br> CSS </td> 
+  <td align="center" width="96">  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" /><br> JavaScript </td>  
+</tr> 
+</table>
+<hr>
+
+## 🔥 Contributions
+<a href="http://www.github.com/frontlook-admin"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frontlook-admin&theme=codeSTACKr" /></a>
+
+## 🔥 Top Languages
+<a href="http://www.github.com/frontlook-admin"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frontlook-admin&theme=codeSTACKr" /></a>  <a href="http://www.github.com/frontlook-admin"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=frontlook-admin&theme=codeSTACKr"/></a>
