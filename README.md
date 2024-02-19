@@ -67,7 +67,6 @@ I'm a full stack developer and Proprietor of Incredible Informatics. I specializ
   <td align="center" width="96">  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" /><br> JavaScript </td>  
 </tr> 
 </table>
-<hr>
 
 ## 🔥 Contributions
 <a href="http://www.github.com/frontlook-admin"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frontlook-admin&theme=codeSTACKr" /></a>
