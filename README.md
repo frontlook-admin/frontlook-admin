@@ -56,16 +56,17 @@ I'm a full stack developer and Proprietor of Incredible Informatics. I specializ
 ## 💻 Skills :
 
 <table>  
-  <tr>  
-  <td align="center" width="96">  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="50" height="50" /><br> C# </td> 
-  <td align="center" width="96">  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySql" width="50" height="50" /><br> MySql </td> 
-  <td align="center" width="96">  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" /><br> GitHub </td>  
-</tr>   
-  <td align="center" width="96">  <img src="https://skillicons.dev/icons?i=nestjs" alt="Bootstrap" width="50" height="50" /><br> Bootstrap </td> 
-  <td align="center" width="96">  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" /><br> HTML </td>  
-  <td align="center" width="96">  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" /><br> CSS </td> 
-  <td align="center" width="96">  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" /><br> JavaScript </td>  
-</tr> 
+  <tr>
+    <td align="center" width="96">  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="50" height="50" /><br> C# </td> 
+    <td align="center" width="96">  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySql" width="50" height="50" /><br> MySql </td> 
+    <td align="center" width="96">  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" /><br> GitHub </td>
+  </tr>  
+  <tr>
+    <td align="center" width="96">  <img src="https://skillicons.dev/icons?i=nestjs" alt="Bootstrap" width="50" height="50" /><br> Bootstrap </td>
+    <td align="center" width="96">  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" /><br> HTML </td>
+    <td align="center" width="96">  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" /><br> CSS </td>
+    <td align="center" width="96">  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" /><br> JavaScript </td>
+  </tr> 
 </table>
 
 ## 🔥 Contributions
