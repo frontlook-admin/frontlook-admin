@@ -9,11 +9,12 @@
 I architect and deliver **production-ready enterprise applications** with clean code, scalable architecture, and comprehensive documentation.  Specializing in . NET Core ecosystem with focus on Blazor, Entity Framework, and complex business solutions.
 
 💡 **My Approach:**
-- 🏗️ **Architecture-first**: Repository patterns, service layers, SOLID principles, DI
-- ⚡ **Performance-driven**:  Optimize from day one—caching, query optimization, scalability
+- 🏗️ **Architecture-first**:  Repository patterns, service layers, SOLID principles, DI
+- ⚡ **Performance-driven**: Optimize from day one—caching, query optimization, concurrency
 - 📚 **Documentation alongside code**: Every feature ships with comprehensive guides
-- 🔄 **Disciplined delivery**: Consistent commit patterns, steady progress, measurable results
+- 🔄 **Cross-platform expertise**:  .  NET, Android, multi-database systems
 - 🎯 **Production quality**: Enterprise-grade code that scales and maintains easily
+- 🔧 **Problem-solver**: Complex integrations, legacy system modernization, critical bug fixes
 
 ---
 
@@ -38,16 +39,32 @@ I architect and deliver **production-ready enterprise applications** with clean 
 - 📖 **9 technical guides**:  Setup, architecture, culture implementation, API references
 - ⏱️ **4.2 months** (part-time alongside other projects)
 - 🎯 **67 commits** with disciplined 0.5 commits/day pattern
+  
+### [DbSync - Database Synchronization Tool](https://github.com/FrontLookInc/DbSync)
+**Multi-database real-time synchronization platform**  
+**Tech:** ASP.NET Core Blazor • Entity Framework Core • Multi-DB Support
 
-**Architecture:**
-```
-├── Repository Pattern (Generic + Specific)
-├── Service Layer (Business Logic Abstraction)
-├── Identity Integration (Custom Claims & Policies)
-├── DbContext Management (Multi-tenant ready)
-├── Helper Libraries (Formatters, Validators)
-└── Comprehensive Documentation
-```
+**Technical Highlights:**
+- 🔄 **Cross-database sync**: SQLite ↔️ SQL Server ↔️ MySQL with dynamic schema introspection
+- ⚙️ **Incremental synchronization**: Track last sync value for efficient delta updates
+- 🏗️ **Dynamic DbContext factory**: Runtime provider selection and query execution
+- ⏱️ **Flexible scheduling**: Manual, Interval, and Scheduled triggers with background jobs
+- 📊 **Execution monitoring**:  Comprehensive logging with performance tracking
+- 🔍 **Database explorer**: Schema introspection across different database types
+- 🎯 **Field mapping engine**: Source-to-destination column mapping with validation
+  
+### [MATA CN Tracking](https://github.com/frontlook-admin/Mata)
+**Android consignment tracking application with multi-API integration**  
+**Tech:** Android (Java) • Retrofit • OkHttp • SOAP • REST APIs
+
+**Technical Highlights:**
+- 🏁 **Race-based API strategy**: 3 APIs called simultaneously with first-response wins
+- ⚙️ **Multi-API integration**:  SOAP (legacy) + 2 REST APIs with atomic concurrency control
+- 🐛 **Critical fixes**: OkHttp version conflict resolution, ArrayIndexOutOfBounds fixes
+- 📱 **Modern Android**: SDK 36, Android 12+ support, Material Design dark mode
+- 🔒 **Network security**:  Cleartext traffic config, domain whitelisting
+- 📤 **Enhanced sharing**: WhatsApp/Email integration with API source indicators
+- 🎨 **Adaptive UI**: Dark mode support, colored status indicators, improved layouts
 
 ---
 
@@ -61,45 +78,28 @@ Double-entry bookkeeping, GST compliance, financial reporting, and business inte
 
 ---
 
-## 💡 Technical Expertise
-
-### **Backend Architecture**
-```csharp
-// What I build with
-ASP.NET Core 6/7/8      → Web API, Blazor Server, MVC
-Entity Framework Core   → Code-First, Migrations, Performance
-Design Patterns         → Repository, Service Layer, Factory, Strategy
-Authentication          → Identity, JWT, OAuth, Custom Claims
-Database Design         → SQL Server, MySQL - Normalization & Optimization
-```
-
-### **Frontend & User Experience**
-```javascript
-// Modern, responsive interfaces
-Blazor (Server + WASM)  → Interactive components, State management
-Bootstrap 5             → Responsive design, Custom themes
-JavaScript              → DOM manipulation, AJAX, Event handling
-CSS3                    → Flexbox, Grid, Animations, Dark themes
-Accessibility           → ARIA, Keyboard nav, Screen reader support
-```
 
 ### **Specialized Capabilities**
+- 🔄 **Database Synchronization**: Cross-platform sync engines, incremental updates, schema introspection
 - 📦 **File Processing**: Excel manipulation (EPPlus, NPOI), CSV parsing, data transformation
 - 🖨️ **Barcode Systems**: Scanner hardware integration, barcode generation/validation
-- 📊 **Advanced Reporting**: Complex aggregations, data visualization, Excel exports with formatting
+- 📊 **Advanced Reporting**: Complex aggregations, data visualization, Excel exports
 - 🌐 **Globalization**: Multi-culture support, i18n/l10n, culture-aware formatting
-- 🔄 **Data Migration**: Import/export pipelines, legacy system integration
-- ⚙️ **Performance**:  Query optimization, caching strategies (Memory, Distributed), pagination
+- 🔌 **API Integration**: REST, SOAP, multi-provider strategies, race conditions
+- 📱 **Android Development**: Java, Retrofit, Material Design, background services
+- ⚙️ **Performance**:  Query optimization, caching (Memory, Distributed), concurrency control
 
 ### **Development Practices**
 ```
 ✓ Clean Architecture     ✓ SOLID Principles      ✓ DRY/KISS
-✓ Unit & Integration Testing                      ✓ Git Flow
+✓ Multi-platform Development                      ✓ Git Flow
 ✓ Comprehensive Documentation                     ✓ Code Reviews
-✓ Performance Profiling  ✓ Security Best Practices
+✓ Concurrency & Thread Safety                     ✓ Error Handling
+✓ Cross-database Compatibility                    ✓ API Integration
 ```
 
 ---
+
 
 ## 🛠️ Technology Stack
 
@@ -118,19 +118,37 @@ Accessibility           → ARIA, Keyboard nav, Screen reader support
       <br>ASP.NET Core
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" width="65" height="65" />
+      <br>Android
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" />
       <br>SQL Server
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="65" height="65" />
+      <br>SQLite
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
       <br>Git/GitHub
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="65" height="65" />
       <br>Bootstrap 5
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="65" height="65" />
       <br>HTML5
@@ -144,8 +162,12 @@ Accessibility           → ARIA, Keyboard nav, Screen reader support
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" width="65" height="65" />
-      <br>Android
+      <img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" width="65" height="65" />
+      <br>Gradle
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ" width="65" height="65" />
+      <br>IntelliJ/VS
     </td>
   </tr>
 </table>
@@ -189,6 +211,90 @@ Testing:        Unit + Integration
 </tr>
 </table>
 
+## 📊 Portfolio Metrics
+
+<table>
+<tr>
+<td width="33%">
+
+### PBM Project
+```yaml
+Platform:    .NET/Blazor
+Duration:    4.2 months
+Code:        15-20K lines
+Modules:     18 features
+Hours:       516-645
+Database:    SQL Server
+```
+
+</td>
+<td width="33%">
+
+### DbSync Project
+```yaml
+Platform:    .NET/Blazor
+Duration:    17-21 days
+Code:        Multi-project
+Components:  17 features
+Hours:       135-165
+Databases:   3 types
+```
+
+</td>
+<td width="33%">
+
+### MATA Project
+```yaml
+Platform:    Android/Java
+Duration:    34-40 hours
+Code:        +633 lines
+APIs:        3 integrated
+Complexity:  High (8/10)
+Impact:      Critical fix
+```
+
+</td>
+</tr>
+</table>
+
+### **Cumulative Achievements**
+```yaml
+Total Development Hours:  685-850 hours across 3 major projects
+Lines of Code Written:    35,000-40,000+ lines
+Platforms Mastered:       Web (Blazor), Desktop (.NET), Mobile (Android)
+Databases Supported:      SQL Server, MySQL, SQLite
+API Integrations:         REST, SOAP, Multi-provider race strategies
+Documentation Created:    9+ comprehensive technical guides
+Architecture Patterns:    Repository, Service Layer, Factory, Concurrency
+```
+
+---
+
+## 🏆 Technical Achievements
+
+### **Complex Problem Solving**
+```
+✓ Multi-database synchronization with schema introspection
+✓ Cross-platform data transfer (SQLite ↔️ MSSQL ↔️ MySQL)
+✓ Race-based API integration with atomic concurrency
+✓ OkHttp version conflict resolution in production
+✓ Hardware integration (barcode scanners)
+✓ Culture-aware formatting across 4 locales
+✓ Dynamic DbContext factory for runtime provider selection
+✓ Incremental sync with delta tracking
+```
+
+### **Architecture Excellence**
+```
+✓ Enterprise patterns:   Repository + Service Layer + DI
+✓ Multi-project solutions with clean separation
+✓ Thread-safe concurrent operations
+✓ Background job scheduling systems
+✓ Comprehensive error handling and logging
+✓ Cross-database compatibility layers
+✓ Production-ready deployment configurations
+```
+
 ---
 
 ## 🏢 Incredible Informatics
@@ -200,13 +306,14 @@ Opposite BSNL Head Office, near Poddar Court
 Kolkata - 700073, West Bengal, India
 
 **Enterprise Solutions:**
-- 🌐 **Web Applications**: Scalable . NET Core & Blazor platforms
+- 🌐 **Web Applications**: Scalable .  NET Core & Blazor platforms
 - 💼 **Desktop Software**: Windows applications with complex business logic
-- 📱 **Mobile Apps**: Native Android development
+- 📱 **Mobile Apps**: Native Android development with API integration
 - 🔧 **ERP Systems**: Custom enterprise resource planning solutions
 - 📊 **Inventory Management**:  Barcode systems, stock tracking, reporting
 - 💰 **Financial Software**: Payroll, accounting, compliance systems
-- 🔄 **System Integration**: API development, legacy modernization
+- 🔄 **System Integration**: Multi-database sync, API development, legacy modernization
+- 🔌 **Data Synchronization**: Cross-platform real-time data sync solutions
 
 ---
 
