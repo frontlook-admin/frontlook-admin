@@ -3,7 +3,7 @@
 **Proprietor, Incredible Informatics**
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=frontlook-admin&theme=dark&fire=DD2727&sideNums=1982DD&currStreakNum=FF1854&sideLabels=01C658&dates=8EB0DD&currStreakLabel=07C3DD)](https://github.com/frontlook-admin)
-
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D36328)](https://codetime.dev)
 ## 👨‍💻 About Me
 
 I architect and deliver **production-ready enterprise applications** with clean code, scalable architecture, and comprehensive documentation.  Specializing in . NET Core ecosystem with focus on Blazor, Entity Framework, and complex business solutions.
