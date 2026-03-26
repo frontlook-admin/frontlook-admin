@@ -1,0 +1,15 @@
+{
+  "ApiLinks":[
+    {
+      "FrontLook.Lic":[
+        {
+          "D":"https://localhost:7205",
+          "R":"in.incredibleinformatics.com/FrontLookLic",
+          "P1":"incredibleinformatics.in/FrontLookLic",
+          "P2":"incredibleinformatics.com/FrontLookLic",
+        }
+      ]
+    }
+  ]
+    
+}
