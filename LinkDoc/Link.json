@@ -6,10 +6,10 @@
           {
             "D1":"https://localhost:7205",
             "D2":"in.incredibleinformatics.com/FrontLookLic",
-            "R1":"incredibleinformatics.in/FrontLookLic",
-            "R2":"incredibleinformatics.com/FrontLookLic",
+            "R1":"incredibleinformatics.in/Lics",
+            "R2":"incredibleinformatics.com/Lics",
           },
-          "Active":"D1|R2|R1|D2"
+          "Active":"D1|R2"
         ]
       ]
     }
