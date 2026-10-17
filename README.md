@@ -77,6 +77,159 @@ Complete employee lifecycle management with salary processing, attendance tracki
 **Full-featured accounting platform**  
 Double-entry bookkeeping, GST compliance, financial reporting, and business intelligence.
 
+### [AceLink](https://github.com/frontlook-admin/AceLink)
+**Shared library for Ace company DBF data**  
+**Tech:** .NET 8 • Ace OLE DB • DBF
+
+**Technical Highlights:**
+- 🏢 **One company at a time**: Opens a company from the registry `COMP.dbf` and the matching `Ace5{CCOD}` folder
+- 📒 **Chart and extracts**: `ReadChart` for layouts, groups, subgroups, ledgers, and parties, plus named extracts for products, GST, and series
+- ✍️ **Safe posting**: `Push` for cash/bank and journal (`CB` / `JV`); `PostBill` for sale, purchase, and returns (`SB` / `PB` / `SR` / `PR`)
+- 🔒 **Failure recovery**: Snapshots `TXN`, `TXNDET`, `BILL`, and `STOCK`, refuses a locked file, and restores the snapshot if an insert fails
+- 🧪 **Callers stay outside**: RevoDayBook is the first caller; this repo has no screen and no HTTP client
+
+### [AceApiJsonManager](https://github.com/frontlook-admin/AceApiJsonManager)
+**Desktop console for Ace API operations and company backup**  
+**Tech:** .NET 8 • Windows Forms • SQLite • Background worker
+
+**Technical Highlights:**
+- 📊 **API operations dashboard**: Live configuration, worker heartbeat, and recent run activity
+- 🗄️ **Company backup tasks**: Scheduled and manual company backup from the desktop shell
+- 🤫 **Hidden host**: Background instance for worker execution beside the desktop app
+- 🧩 **Split solution**: Desktop, hidden host, library, and tests
+
+### [AceBackUpManager](https://github.com/frontlook-admin/AceBackUpManager)
+**Ace company backup and restore manager**  
+**Tech:** .NET 8 • Windows Forms • Console host
+
+**Technical Highlights:**
+- 💾 **Company backup**: Manual and scheduled company backups with task history
+- ♻️ **Restore center**: Restore wizard for bringing a company backup back
+- 🖥️ **Desktop and console**: Interactive desktop app plus a console host for unattended runs
+- 📦 **Installer**: Packaged desktop deployment alongside the library and tests
+
+### [AceReporter](https://github.com/frontlook-admin/AceReporter)
+**Windows reporting for Ace bills and GST**  
+**Tech:** .NET 8 Windows • FastReport • RDLC • Ace DBF
+
+**Technical Highlights:**
+- 🖨️ **Bill print**: Ace bill generation from company DBF data (`BILL`, `BILLINFO`, and related tables)
+- 📄 **Report engines**: FastReport templates in use, with an RDLC path for async preview, print, PDF, and Excel
+- 🧾 **GST report**: GST reporting added on top of the bill-print flow
+- ⌨️ **CLI**: Command-line reporter projects beside the desktop app
+
+### [Revo Suite](https://github.com/FrontLookInc/Revo)
+**Multi-database business suite: core app, day book, mail, and restaurant**  
+**Tech:** ASP.NET Core Blazor • .NET 8 • SQL Server • MySQL • PostgreSQL • SQLite
+
+**Technical Highlights:**
+- 📚 **[Revo](https://github.com/FrontLookInc/Revo)**: Company, membership, ownership, general-ledger entry, dashboards, and reports, with SQL Server, MySQL, PostgreSQL, and SQLite libraries plus an Android project
+- 📒 **[RevoDayBook](https://github.com/FrontLookInc/RevoDayBook)**: Day-book sync from Ace DBF through AceLink
+- ✉️ **[RevoMailer](https://github.com/frontlook-admin/RevoMailer)**: Shared-database Blazor Server mail gateway
+- 🍽️ **[RevoRestro](https://github.com/FrontLookInc/RevoRestro)**: Restaurant product on the same .NET 8 stack
+
+### [RevoEcommerce](https://github.com/FrontLookInc/RevoEcom)
+**Storefront and admin for the Revo commerce stack**  
+**Tech:** ASP.NET Core Blazor • .NET 8 • Android
+
+**Technical Highlights:**
+- 🛒 **Shopper flow**: Catalog, cart, checkout, addresses, orders, and tracking
+- 💳 **Payments**: Card, cash on delivery, EMI, and gift-card panels
+- 📱 **Clients**: Full and Lite web hosts plus an Android app
+- 🎛️ **Admin**: Dynamic admin dashboard beside the storefront
+
+### [ValueAdd](https://github.com/frontlook-admin/ValueAdd)
+**Multi-tenant platform for the ValueAdded business**  
+**Tech:** ASP.NET Core Blazor Server • .NET 8 • PostgreSQL • MySQL • Android JWT
+
+**Technical Highlights:**
+- 🏢 **Tenant isolation**: Master database plus a schema or database per company
+- 🔐 **Company-aware sign-in**: Company ID or alias, then username, email, or mobile
+- 📲 **Android sessions**: Bearer JWT, refresh tokens, and single-device, multi-device, or locked-device policies
+- 🏦 **Bank master**: Global bank list with optional per-company hides for the Android app
+
+### [ITAGardenManager](https://github.com/FrontLookInc/ITAGardenManager)
+**Tea-garden production, billing, and crop reporting**  
+**Tech:** ASP.NET Core Blazor • .NET 8 • SQL Server • MySQL • SQLite
+
+**Technical Highlights:**
+- 🌿 **Garden masters**: Gardens, companies, units, bought leaf, labour, regions, and zones
+- 🧾 **Crop billing**: Garden, bought-leaf, associate, and special-member bills, with intimation letters and invoices
+- 📊 **Crop reports**: Monthly production, district and yearly crop, Tea Board estimates, outstanding, and GST
+- 🗄️ **Multi-database**: SQL Server, MySQL, and SQLite provider libraries
+
+### [EPOD](https://github.com/frontlook-admin/EPOD)
+**Electronic proof of delivery**  
+**Tech:** ASP.NET Core Blazor • Blazor WebAssembly • .NET 8 • SQL Server • MySQL • SQLite • Tally bridge
+
+**Technical Highlights:**
+- 📦 **Order confirmation**: Each order records product, dispatched quantity, received quantity, and remarks
+- ✅ **Received-all**: One check marks the whole order received
+- 📊 **View and report**: Order view and EPOD report pages beside the entry screen
+- 🔌 **Connector API**: Company and data-source sync, including max alter-id for incremental pull
+- 🌉 **Tally bridge**: Desktop and hidden host for moving delivery data to Tally
+
+### [ProductQR](https://github.com/frontlook-admin/ProductQR)
+**Product QR label and bill printing**  
+**Tech:** .NET 8 Windows Forms • FastReport
+
+**Technical Highlights:**
+- 🏷️ **QR labels**: FastReport templates for product QR, including customer-specific layouts
+- 📦 **Masters**: Product, batch, and manufacturer records that feed the label
+- 🖨️ **Bill print**: Preview and print from the desktop app
+- 🏢 **Company desktop**: Windows app with its own company database
+
+### [APC](https://github.com/FrontLookInc/APC)
+**Cloth dyeing and processing**  
+**Tech:** ASP.NET Core Blazor • .NET 8 • SQL Server • MySQL • SQLite
+
+**Technical Highlights:**
+- 🎨 **Dye house**: Formula master, machine master, and dye-batch stock
+- 🧵 **Production**: Matching and running production consumption, with dye-wise costing
+- 🧾 **Sale challan**: Challan entry, print, batch summary, and stock
+- 📄 **Slips**: Production slip print for matching and running lots
+- 🔌 **Data connector**: Desktop and hidden host for bringing process data in
+
+### [VerTV](https://github.com/VerTvInc/vertv-web) · Sep 2026 – Present
+**Company OTT platform**  
+**Tech:** React · TypeScript · ASP.NET Core · .NET · Kotlin · Swift · PostgreSQL · Redis
+
+**Technical Highlights:**
+- 🎬 **Viewer**: Browser OTT app with HLS playback
+- 🎛️ **[Staff dashboard](https://github.com/VerTvInc/vertv-staff-dashboard)**: Catalog, genres, and viewer support
+- 🔐 **[Access API](https://github.com/VerTvInc/vertv-access-api)**: Identity, catalog, and playback authorization
+- 🎞️ **[Video worker](https://github.com/VerTvInc/vertv-video-worker)**: Ingest, FFmpeg, and HLS packaging
+- 📱 **Clients**: [Android](https://github.com/VerTvInc/vertv-android) in Kotlin, and an [iOS](https://github.com/VerTvInc/vertv-ios) start
+- 🗄️ **[Local platform](https://github.com/VerTvInc/vertv-local-platform)**: PostgreSQL and Redis
+
+### [AceToTally](https://github.com/frontlook-admin/AceReporter) · Apr 2026 – Jul 2026
+**Ace company data into a Tally workbook**  
+**Tech:** AceReporter module · Tally Data Interface · Excel
+
+**Technical Highlights:**
+- 📒 **Sync With Tally (Excel)**: A page inside AceReporter, not a separate repository
+- 📤 **Workbook export**: Reads an Ace company and writes masters and accounting vouchers, including sales and purchases
+- 🔗 **Tally Data Interface**: The workbook is built through that library
+
+### Tally bridges · Apr 2021 – Present
+**Desktop and hidden hosts that sync a company into Tally**
+
+**Technical Highlights:**
+- 🏢 **[ValueAdd](https://github.com/frontlook-admin/ValueAddTallyBridge)**: Apr 2024 – Present
+- 🏢 **[IDS](https://github.com/frontlook-admin/IDSTallyConnect)**: Dec 2025 – Mar 2026
+- 📚 **[TallyConnector](https://github.com/frontlook-admin/TallyConnector)**: Shared library, Apr 2021 – Feb 2026
+- 📦 **[Migration tool](https://github.com/frontlook-admin/TallyMigrationTool)**: Jan 2024 – Apr 2026
+- 📊 **[Tally Data Interface](https://github.com/frontlook-admin/TallyDataInterface)**: Mar 2026 – May 2026, turns source data into Tally-ready books
+
+### Cheque printing and reporting · By May 2021
+**Accounting print and report add-ons**  
+**Tech:** ASP.NET · C#
+
+**Technical Highlights:**
+- 🖨️ **Cheque printing**: Software for accounting cheque runs
+- 📄 **Report add-ons**: Customized reporting for third-party accounting software
+- 🌐 **Web**: ASP.NET applications in C#
+
 ---
 
 
@@ -320,7 +473,6 @@ Kolkata - 700073, West Bengal, India
 
 ## 📫 Let's Connect
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/devc100)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@incredibleinformatics.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debanjan-chakraborty)
 
